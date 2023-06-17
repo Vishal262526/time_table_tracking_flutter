@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844751963419",
+    "project_id": "ttracker-17cae",
+    "storage_bucket": "ttracker-17cae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844751963419:android:196d173e6e28f3c7787fbe",
+        "android_client_info": {
+          "package_name": "com.example.time_table_tracker_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844751963419-0da8i6f33mhqlcb786bof03a4e9hgcod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMd52rTsbPpH1d6kThMhj6mXlv5nrcPKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844751963419-0da8i6f33mhqlcb786bof03a4e9hgcod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
